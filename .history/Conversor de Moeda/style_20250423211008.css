@@ -1,0 +1,44 @@
+*{
+    margin: 0; 
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+    outline: none;
+}
+
+body{
+    background-color: #000000;
+}
+
+.video-logo{
+    width:300px;
+    display: block;
+    margin: 20px auto;
+}
+
+main{
+    width: 375px;
+    background: #000000;
+    border-radius: 20px;
+    margin: 0 auto 40px;
+    padding: 44px 24px 23px;
+}
+
+label{
+  color: #f4f4f4;
+  font-weight: 400px;
+  font-size: 20px;
+}
+
+select,
+input{
+    background: #f4f4f4;
+    border: 1px solid #f4f4f4;
+    border-radius: 4px;
+    height: 48px;
+    width: 100%;
+    margin-bottom: 24px;
+    padding-left: 18px;
+    font-weight: 700;
+    
+}
