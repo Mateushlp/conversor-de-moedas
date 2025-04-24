@@ -28,9 +28,5 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 - Melhorar a responsividade em telas maiores
 - Corrigir pequenos bugs no JavaScript
 
-## 🖼️ Prévia
 
-(Coloque aqui um gif ou uma imagem do app funcionando, se quiser)
-
-## 📂 Estrutura de Arquivos
 
